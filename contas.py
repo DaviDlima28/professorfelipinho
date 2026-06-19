@@ -7,3 +7,5 @@ if opcao == "1":
     (print("A soma é: ", num + num2))
 elif opcao == "2":
     (print("A subtração é: ", num - num2))
+elif opcao == "3":
+    (print("A divisão é: ", num / num2 ))
