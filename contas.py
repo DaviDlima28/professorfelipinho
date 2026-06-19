@@ -5,3 +5,5 @@ opcao = int(input("Escolha uma operação: \n 1 soma \n 2 subtração \n 3 divis
 
 if opcao == "1":
     (print("A soma é: ", num + num2))
+elif opcao == "2":
+    (print("A subtração é: ", num - num2))
